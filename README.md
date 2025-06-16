@@ -1,9 +1,3 @@
-## 📽️ Video Pitch
-
-[![Watch the Pitch Video](https://img.youtube.com/vi/xSE1D2wSPGo image above to watch our YouTube pitch video.*
-
----
-
 ## 🚀 Project Overview
 
 **Problem:**  
